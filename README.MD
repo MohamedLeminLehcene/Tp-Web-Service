@@ -7,3 +7,6 @@
 <li>Consulter une Liste de comptes</li>
 </ul>
 <img src="captures/Question1.png"/>
+
+<p>2.Question - Déployer le Web service avec un simple Serveur JaxWS</p>
+<img src="captures/Question2.png">
