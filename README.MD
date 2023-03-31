@@ -29,3 +29,11 @@ Voici la résultat aprés teste pour le méthode ConsulterCompte qui permet de n
 <img src="captures/Question4/img3.png"/>
 Voici le résultat aprés teste pour le méthodes ConsultListCompte qui consiste a afficher liste de comptes
 <img src="captures/Question4/img4.png"/>
+
+
+<p>5. Créer un Client SOAP Java</p>
+<p>Voici Capture ecran pour code source pour client SOAP en Java avec JaxWS</p>
+<img src="captures/Question5/img1.png"/>
+<p>Voici Capture ecran pour Tester Les différents methodes qui propose notre WebService avec Client JOAP Java </p>
+
+<img src="captures/Question5/img2.png"/>
