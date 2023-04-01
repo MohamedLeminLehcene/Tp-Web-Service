@@ -40,6 +40,12 @@ Voici le résultat aprés teste pour le méthodes ConsultListCompte qui consiste
 
 
 <p>7. Créer un Client SOAP PHP</p>
+<p>Voici capture ecran code source pour client soap avec PHP</p>
+<img src="captures/Question6/ClientSoapPHP/ClientSoapPhp.png" />
+<p>Layout Header</p>
+<img src="captures/Question6/ClientSoapPHP/Header.png" />
+<p>Layout Footer</p>
+<img src="captures/Question6/ClientSoapPHP/footer.png" />
 <p>
 Voici un capture ecran pour client SOAP PHP qui a une interface créer avec framework Bootstrap
 qui contient 3 boutons pour tester avec notre client SOAP PHP Les différents méthodes qui propose notre Web Service
@@ -57,3 +63,4 @@ qui contient 3 boutons pour tester avec notre client SOAP PHP Les différents m�
 Voici le résultat aprés teste pour le méthodes ConsultListCompte 
 <p>Voici le résultat aprés teste  pour le méthode ConsultListCompte lorsque on click sur button Afficher Liste des Comptes qui consiste a afficher liste de comptes et on affiche le résultat dans une tableau</p>
 <img src="captures/Question6/img6.png" />
+
