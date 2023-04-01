@@ -64,6 +64,8 @@ lorsque on click sur button (Comptes) qui permet d'Afficher Liste des Comptes da
 </p>
 <img src="captures/Question6/img4.png">
 
+<p>Voici capture ecran code source pour client soap avec DotNet</p>
+<img src="captures/Question6/img1.png">
 
 <p>7. Créer un Client SOAP PHP</p>
 <p>Voici capture ecran code source pour client soap avec PHP</p>
