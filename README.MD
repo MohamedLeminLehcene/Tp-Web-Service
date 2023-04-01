@@ -38,6 +38,32 @@ Voici le résultat aprés teste pour le méthodes ConsultListCompte qui consiste
 
 <img src="captures/Question5/img2.png"/>
 
+<p>6. Créer un Client SOAP Dot Net</p>
+<p>Dans cette partie je créer un application windows form qui permet de Consulter notre WEB SERVICE</p>
+<p>D'abord On doit donner L'address WSDL pour le webservice qu'ont doit le consulter par Client SOAP DOTNET</p>
+<img src="captures/Question6/AccederAuWS/img1.png"/>
+<p>Donc lorsqu'on cliquer sur bouton (Aller à) il m'afficher les différents méthodes qui propose mon web service</p>
+<img src="captures/Question6/AccederAuWS/img2.png"/>
+<p>
+Voici un capture ecran pour client SOAP DOTNET qui 
+a une interface graphique créer avec Windows Froms Application qui contient 
+textBox pour saisir un Montant , textBox pour afficher resultat de conversion en DH, 
+DataGridView pour afficher resultat lorsque on clique sur button Comptes et 
+des boutons pour consulter les différentes méthodes (Convert en DH et Afficher Liste des Comptes)
+</p>
+<img src="captures/Question6/img2.png">
+<p>
+Voici le résultat aprés teste pour le méthode Convert lorsque on sasir 
+un montant dans textBox et on click sur button 
+Conversion qui consiste seulement a converture en montant de l'auro en DH
+</p>
+<img src="captures/Question6/img3.png">
+<p>
+Voici le résultat aprés teste pour le méthode ConsultListCompte avec Client SOAP DOTNET
+lorsque on click sur button (Comptes) qui permet d'Afficher Liste des Comptes dans une DataGridView
+</p>
+<img src="captures/Question6/img4.png">
+
 
 <p>7. Créer un Client SOAP PHP</p>
 <p>Voici capture ecran code source pour client soap avec PHP</p>
@@ -60,7 +86,6 @@ qui contient 3 boutons pour tester avec notre client SOAP PHP Les différents m�
 <img src="captures/Question7/img3.png" />
 <img src="captures/Question7/img4.png" />
 
-Voici le résultat aprés teste pour le méthodes ConsultListCompte 
 <p>Voici le résultat aprés teste  pour le méthode ConsultListCompte lorsque on click sur button Afficher Liste des Comptes qui consiste a afficher liste de comptes et on affiche le résultat dans une tableau</p>
 <img src="captures/Question7/img6.png" />
 
