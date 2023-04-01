@@ -37,3 +37,24 @@ Voici le résultat aprés teste pour le méthodes ConsultListCompte qui consiste
 <p>Voici Capture ecran pour Tester Les différents methodes qui propose notre WebService avec Client JOAP Java </p>
 
 <img src="captures/Question5/img2.png"/>
+
+
+<p>7. Créer un Client SOAP PHP</p>
+<p>
+Voici un capture ecran pour client SOAP PHP qui a une interface créer avec framework Bootstrap
+qui contient 3 boutons pour tester avec notre client SOAP PHP Les différents méthodes qui propose notre Web Service
+</p>
+<img src="captures/Question6/img0.png" />
+
+<p>Voici le résultat aprés teste  pour le méthode Convert lorsque on sasir un montant dans input et on click sur button Convert qui consiste seulement a converture en montant de l'auro en DH </p>
+<img src="captures/Question6/img1.png" />
+<img src="captures/Question6/img2.png" />
+
+<p>Voici le résultat aprés teste  pour le méthode ConsulterCompte lorsque on sasir un code du compte dans input et on click sur button Consulter un Compte qui permet de nous de consulter une compte par son code et on afficher le résultat dans un tableau</p>
+<img src="captures/Question6/img3.png" />
+<img src="captures/Question6/img4.png" />
+
+Voici le résultat aprés teste pour le méthodes ConsultListCompte 
+<p>Voici le résultat aprés teste  pour le méthode ConsultListCompte lorsque on click sur button Afficher Liste des Comptes qui consiste a afficher liste de comptes et on affiche le résultat dans une tableau</p>
+<img src="captures/Question6/img5.png" />
+<img src="captures/Question6/img6.png" />
