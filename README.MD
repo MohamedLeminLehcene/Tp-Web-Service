@@ -56,5 +56,4 @@ qui contient 3 boutons pour tester avec notre client SOAP PHP Les différents m�
 
 Voici le résultat aprés teste pour le méthodes ConsultListCompte 
 <p>Voici le résultat aprés teste  pour le méthode ConsultListCompte lorsque on click sur button Afficher Liste des Comptes qui consiste a afficher liste de comptes et on affiche le résultat dans une tableau</p>
-<img src="captures/Question6/img5.png" />
 <img src="captures/Question6/img6.png" />
